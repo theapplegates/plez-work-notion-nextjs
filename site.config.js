@@ -8,7 +8,7 @@ export default {
 
   // basic site info (required)
   name: 'Living Life',
-  domain: 'transitivebullsh.it',
+  domain: 'plez-work-notion-nextjs.vercel.app',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
